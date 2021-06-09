@@ -1,5 +1,5 @@
 {
-  "name": "strapi-foodsun",
+  "name": "food-sun",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -13,20 +13,21 @@
   "dependencies": {
     "strapi": "3.6.3",
     "strapi-admin": "3.6.3",
-    "strapi-utils": "3.6.3",
-    "strapi-plugin-content-type-builder": "3.6.3",
+    "strapi-connector-mongoose": "3.6.3",
     "strapi-plugin-content-manager": "3.6.3",
-    "strapi-plugin-users-permissions": "3.6.3",
+    "strapi-plugin-content-type-builder": "3.6.3",
     "strapi-plugin-email": "3.6.3",
-    "strapi-plugin-upload": "3.6.3",
     "strapi-plugin-i18n": "3.6.3",
-    "strapi-connector-mongoose": "3.6.3"
+    "strapi-plugin-upload": "3.6.3",
+    "strapi-plugin-users-permissions": "3.6.3",
+    "strapi-provider-upload-cloudinary": "^3.6.3",
+    "strapi-utils": "3.6.3"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "f2e9a5eb-aeaf-4941-841e-cf668957053c"
+    "uuid": "fd4b6e55-ef4c-45d9-9fc9-617635c89289"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
