@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_text_grids",
+  "info": {
+    "name": "text_grid",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "descripition": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
