@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_menu_menu_links",
+  "info": {
+    "name": "menu_link",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "link_text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
